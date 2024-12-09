@@ -16,26 +16,6 @@ This project implements an Emotion Detection system using a pre-trained neural n
 - Python 3.x
 - Install required Python packages using `pip install -r requirements.txt`
 
-## Setup
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/mahesh013/emotion-detection.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd emotion-detection
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the GUI application:
